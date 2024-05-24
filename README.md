@@ -16,7 +16,6 @@ ReadMe file uses markdown syntax to edit any text, formulas or codes.
    
 
 
-
 ## My fav part of the code 
 
 ```java
